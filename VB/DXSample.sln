@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VGridDragDropSample", "VGridDragDropSample.vbproj", "{BADCCC37-B398-4924-AA50-6835D40C3DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADCCC37-B398-4924-AA50-6835D40C3DDE}.Debug|x86.ActiveCfg = Debug|x86
+		{BADCCC37-B398-4924-AA50-6835D40C3DDE}.Debug|x86.Build.0 = Debug|x86
+		{BADCCC37-B398-4924-AA50-6835D40C3DDE}.Release|x86.ActiveCfg = Release|x86
+		{BADCCC37-B398-4924-AA50-6835D40C3DDE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
